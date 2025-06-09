@@ -1,5 +1,5 @@
 ---
-title: "Final Project - Nhóm 26 - Project 2"
+title: "Diabetes Health Indicators"
 output: html_document
 ---
 
