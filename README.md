@@ -1,4 +1,4 @@
-# Diabetes Analysis & Prediction Project Summary (Code R)
+# Diabetes Analysis & Prediction (Code R)
 This project focuses on analyzing influencing factors and building a predictive model for diabetes risk based on health and demographic data.
 
 ## 1. Impact Analysis
